@@ -1,4 +1,6 @@
-package duck.superclass;
+package duck.superclass.animals;
+
+import duck.superclass.abstractanimal.Animal;
 
 public class Dog extends Animal {
 
