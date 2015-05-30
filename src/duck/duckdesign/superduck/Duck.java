@@ -1,7 +1,7 @@
 package duck.duckdesign.superduck;
 
-import duck.duckdesign.behavior.FlyBehavior;
-import duck.duckdesign.behavior.QuackBehavior;
+import duck.duckdesign.behavior.interfaces.FlyBehavior;
+import duck.duckdesign.behavior.interfaces.QuackBehavior;
 
 public class Duck {
 	public FlyBehavior flyBehavior; 

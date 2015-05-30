@@ -1,6 +1,6 @@
-package duck.duckdesign.behaviorImpl.flybehaviorImpl;
+package duck.duckdesign.behavior.impl.flybehaviorImpl;
 
-import duck.duckdesign.behavior.FlyBehavior;
+import duck.duckdesign.behavior.interfaces.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior {
 

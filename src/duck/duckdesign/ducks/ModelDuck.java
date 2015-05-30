@@ -1,7 +1,7 @@
 package duck.duckdesign.ducks;
 
-import duck.duckdesign.behaviorImpl.flybehaviorImpl.FlyNoWay;
-import duck.duckdesign.behaviorImpl.quackbehaviorImpl.Quack;
+import duck.duckdesign.behavior.impl.flybehaviorImpl.FlyNoWay;
+import duck.duckdesign.behavior.impl.quackbehaviorImpl.Quack;
 import duck.duckdesign.superduck.Duck;
 
 public class ModelDuck extends Duck{

@@ -1,6 +1,6 @@
-package duck.duckdesign.behaviorImpl.quackbehaviorImpl;
+package duck.duckdesign.behavior.impl.quackbehaviorImpl;
 
-import duck.duckdesign.behavior.QuackBehavior;
+import duck.duckdesign.behavior.interfaces.QuackBehavior;
 
 public class Quack implements QuackBehavior {
 

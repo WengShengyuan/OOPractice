@@ -1,6 +1,6 @@
 package duck.duckdesign;
 
-import duck.duckdesign.behaviorImpl.flybehaviorImpl.FlyWithRocket;
+import duck.duckdesign.behavior.impl.flybehaviorImpl.FlyWithRocket;
 import duck.duckdesign.ducks.MallardDuck;
 import duck.duckdesign.ducks.ModelDuck;
 import duck.duckdesign.superduck.Duck;
