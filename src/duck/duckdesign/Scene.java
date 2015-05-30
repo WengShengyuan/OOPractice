@@ -23,6 +23,7 @@ public class Scene {
 		System.out.println("set rocket");
 		modelDuck.setFlyBehavior(new FlyWithRocket());
 		modelDuck.doFly();
+		modelDuck.doQuack();
 	}
 
 }
