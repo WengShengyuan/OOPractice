@@ -1,4 +1,4 @@
-package statepattern.state;
+package statepattern;
 
 import statepattern.machine.GumballMachine;
 
