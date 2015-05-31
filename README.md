@@ -36,6 +36,10 @@ template
 
 iterator
 
+### 状态模式
+
+statepattern
+
 ## 参考书籍
 
 《Head First 设计模式》
