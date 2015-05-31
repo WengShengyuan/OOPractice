@@ -32,6 +32,10 @@ adapter
 
 template
 
+### 迭代器与组合模式
+
+iterator
+
 ## 参考书籍
 
 《Head First 设计模式》
