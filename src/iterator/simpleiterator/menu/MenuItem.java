@@ -1,4 +1,4 @@
-package iterator.menu;
+package iterator.simpleiterator.menu;
 
 public class MenuItem {
 	

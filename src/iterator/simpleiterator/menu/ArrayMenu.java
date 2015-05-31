@@ -1,6 +1,6 @@
-package iterator.menu;
+package iterator.simpleiterator.menu;
 
-import iterator.interfaces.Iterator;
+import iterator.simpleiterator.interfaces.Iterator;
 
 public class ArrayMenu implements Iterator {
 

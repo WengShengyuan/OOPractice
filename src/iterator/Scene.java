@@ -1,7 +1,7 @@
 package iterator;
 
-import iterator.menu.ArrayMenu;
-import iterator.menu.MenuItem;
+import iterator.simpleiterator.menu.ArrayMenu;
+import iterator.simpleiterator.menu.MenuItem;
 
 public class Scene {
 
