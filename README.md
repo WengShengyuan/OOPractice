@@ -32,15 +32,15 @@ adapter
 
 template
 
-### 迭代器与组合模式
+### 第八章 迭代器与组合模式
 
 iterator
 
-### 状态模式
+### 第九章 状态模式
 
 statepattern
 
-### 代理模式
+### 第十章 代理模式
 
 proxypattern
 
