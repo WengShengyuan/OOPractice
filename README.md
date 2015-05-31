@@ -40,6 +40,10 @@ iterator
 
 statepattern
 
+### 代理模式
+
+proxypattern
+
 ## 参考书籍
 
 《Head First 设计模式》
