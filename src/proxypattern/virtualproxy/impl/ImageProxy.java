@@ -50,6 +50,7 @@ public class ImageProxy implements Icon {
 						try{
 							imageIcon = new ImageIcon(imageURL, "CD Cover");
 							System.out.println("Image got");
+							System.out.println(String.format("Description: %s", imageIcon.getDescription()));
 						} catch (Exception e) {
 							e.printStackTrace();
 						}
