@@ -1,4 +1,4 @@
-package duck.duckdesign;
+package duck;
 
 import duck.duckdesign.behavior.impl.flybehaviorImpl.FlyWithRocket;
 import duck.duckdesign.ducks.MallardDuck;
